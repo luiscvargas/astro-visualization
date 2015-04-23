@@ -1,0 +1,22 @@
+{
+  "name": "dwarfgalaxyviz",
+  "version": "0.0.1",
+  "homepage": "https://github.com/luiscvargas/luiscvargas.net",
+  "authors": [
+    "Luis C. Vargas <lcv1984@gmail.com>"
+  ],
+  "description": "dwarf galaxy visualizations",
+  "main": "discovery.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.5",
+    "jquery": "~2.1.3"
+  }
+}
