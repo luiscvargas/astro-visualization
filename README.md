@@ -1,13 +1,12 @@
 README
 ======
 
-Project: 
-dwarfgalaxyviz
+project: astro-visualization
+
+author: Luis C. Vargas
 
 Description: 
-Visualizations for astronomical datasets
-in particular dwarf galaxies, my area of
-research.
+Visualizations for astronomical datasets.
 
 Included here:
 HTML code, JS scripts
